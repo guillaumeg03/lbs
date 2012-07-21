@@ -13,12 +13,12 @@
 	</properties>
     <description>Top Level Project</description>
     <repositories>
-    	<repository>
-    		<id>broadleaf</id>
-    		<name>broadleaf artefact</name>
-    		<url>http://nexus.broadleafcommerce.org/nexus/content/repositories/releases/</url>
-    	</repository>
-    </repositories>
+        <repository>
+                <id>broadleafcommerce.org</id>
+                <name>broadleafcommerce.org</name>
+                <url>http://www.broadleafcommerce.org/nexus/content/groups/public/</url>
+        </repository>
+	</repositories>
 	<build>
 		<pluginManagement>
 			<plugins>

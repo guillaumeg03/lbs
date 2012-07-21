@@ -91,9 +91,24 @@
 	</build>
 	<dependencies>
 		<dependency>
-			<groupId>org.broadleafcommerce</groupId>
-			<artifactId>broadleaf-admin-module</artifactId>
+        	<groupId>org.broadleafcommerce</groupId>
+            <artifactId>broadleaf-contentmanagement-module</artifactId>
+			<version>1.6.0-M1</version>
+			<classifier>sources</classifier>
 		</dependency>
+        <dependency>
+			<groupId>org.broadleafcommerce</groupId>
+			<artifactId>broadleaf-open-admin-platform</artifactId>
+			<version>1.6.0-M1</version>
+			<classifier>sources</classifier>
+		</dependency>
+        <dependency>
+        	<groupId>org.broadleafcommerce</groupId>
+            <artifactId>broadleaf-admin-module</artifactId>
+			<version>1.6.0-M1</version>
+			<classifier>sources</classifier>
+		</dependency>
+
 		<dependency>
 			<groupId>org.broadleafcommerce</groupId>
 			<artifactId>broadleaf-framework-web</artifactId>

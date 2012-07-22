@@ -12,13 +12,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <repositories>
-    	<repository>
-    		<id>broadleaf</id>
-    		<name>broadleaf artefact</name>
-    		<url>http://nexus.broadleafcommerce.org/nexus/content/repositories/releases/</url>
-    	</repository>
-    </repositories>
     <build>
         <plugins>
             <plugin>

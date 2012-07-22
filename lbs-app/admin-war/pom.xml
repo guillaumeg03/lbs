@@ -93,19 +93,19 @@
 		<dependency>
         	<groupId>org.broadleafcommerce</groupId>
             <artifactId>broadleaf-contentmanagement-module</artifactId>
-			<version>1.6.0-M1</version>
+			<version>1.6.0-M1-29</version>
 			<classifier>sources</classifier>
 		</dependency>
         <dependency>
 			<groupId>org.broadleafcommerce</groupId>
 			<artifactId>broadleaf-open-admin-platform</artifactId>
-			<version>1.6.0-M1</version>
+			<version>1.6.0-M1-29</version>
 			<classifier>sources</classifier>
 		</dependency>
         <dependency>
         	<groupId>org.broadleafcommerce</groupId>
             <artifactId>broadleaf-admin-module</artifactId>
-			<version>1.6.0-M1</version>
+			<version>1.6.0-M1-29</version>
 			<classifier>sources</classifier>
 		</dependency>
 
@@ -130,8 +130,8 @@
 			<artifactId>core</artifactId>
 		</dependency>
         <dependency>
-            <groupId>org.hsqldb</groupId>
-            <artifactId>hsqldb</artifactId>
+            <groupId>postgresql</groupId>
+            <artifactId>postgresql</artifactId>
         </dependency>
 		<dependency>
 			<groupId>commons-dbcp</groupId>

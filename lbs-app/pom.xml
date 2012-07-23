@@ -16,7 +16,7 @@
         <repository>
                 <id>broadleafcommerce.org</id>
                 <name>broadleafcommerce.org</name>
-                <url>http://www.broadleafcommerce.org/nexus/content/groups/public/</url>
+                <url>http://repo1.maven.org/maven2/</url>
         </repository>
 	</repositories>
 	<build>
@@ -131,98 +131,98 @@
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-common</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.1-GA</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-instrument</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.1-GA</version>
                 <type>jar</type>
                 <scope>provided</scope>
             </dependency>
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-usps-schemas</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.0-GA</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-usps</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.0-GA</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-cybersource-api</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.1-GA</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-cybersource</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.1-GA</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-profile</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.1-GA</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-profile-web</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.1-GA</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-framework</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.1-GA</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-framework-web</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.1-GA</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-admin-module</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.1-GA</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-contentmanagement-module</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.1-GA</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
             <dependency>
                 <groupId>org.broadleafcommerce</groupId>
                 <artifactId>broadleaf-open-admin-platform</artifactId>
-                <version>1.6.0-M1-29</version>
+                <version>1.6.1-GA</version>
                 <type>jar</type>
                 <scope>compile</scope>
             </dependency>
             <dependency>
 				<groupId>org.broadleafcommerce</groupId>
 				<artifactId>integration</artifactId>
-				<version>1.6.0-M1-29</version>
+				<version>1.6.1-GA</version>
 				<type>jar</type>
 				<classifier>tests</classifier>
 				<scope>test</scope>
